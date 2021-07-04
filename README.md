@@ -33,7 +33,7 @@ yarn start
 
 In below are listed the supported arguments of the application. Default value display inside the brackets.
 
-* greetings (Hello)
+* greeting (Hello)
 * who (You)
 * width (400)
 * height (500)
