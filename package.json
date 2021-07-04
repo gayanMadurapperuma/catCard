@@ -1,0 +1,17 @@
+{
+  "name": "catCard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gayan madurapperuma",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "axios": "^0.21.1",
+    "minimist": "^1.2.5",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
