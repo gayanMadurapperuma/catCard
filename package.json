@@ -10,8 +10,6 @@
   "dependencies": {
     "@mapbox/blend": "^2.0.1",
     "axios": "^0.21.1",
-    "minimist": "^1.2.5",
-    "request": "^2.88.2",
-    "request-promise": "^4.2.6"
+    "minimist": "^1.2.5"
   }
 }
