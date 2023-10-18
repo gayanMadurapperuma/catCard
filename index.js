@@ -8,6 +8,9 @@ const argv = require('minimist')(process.argv.slice(2));
 const blendPromise = util.promisify(blend);
 const writeFilePromise = util.promisify(writeFile);
 
+console.log('argv', argv);
+console.log('argv', argv.greeting);
+
 const {
     greeting = 'Hello',
     who = 'You',
